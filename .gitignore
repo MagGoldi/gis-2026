@@ -2,10 +2,7 @@
 **/geoserver_data/gwc/**/*.lck
 **/geoserver_data/gwc/**/*.bak
 **/geoserver_data/logs/
-**/geoserver_data/tomcat_pass.txt
-**/geoserver_data/security/masterpw/default/passwd
 **/node_modules/
 **/.env
 **/.DS_Store
 **/package-lock.json
-**/geoserver_data/security/masterpw.digest
